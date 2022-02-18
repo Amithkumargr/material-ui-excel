@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.errMsg {
+  color:'red'
+}
+
+.edit:hover {
+  background-color:darkgreen;
+}
